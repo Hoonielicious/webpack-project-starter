@@ -1,0 +1,15 @@
+{
+  "name": "react-webpack-weather-application",
+  "version": "1.0.0",
+  "description": "A forecast application built with react",
+  "main": "weather.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Hoonie Sun",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "webpack": "^3.0.0"
+  }
+}
